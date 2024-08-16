@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Designer-bat
 - 👀 I’m interested in [ web development, graphic design,UI/UX design, AI,]
-- 🌱 I’m currently learning [I'm currently learning C,linex,java(oop) ,PHP, JavaScript, Python, UI/UX design,Graphic designing etc.]
+- 🌱 I’m currently learning [I'm currently learning C,linux,java(oop) ,PHP, JavaScript, Python, UI/UX design,Graphic designing etc.]
 - 💞️ I’m looking to collaborate on [projects or areas i'm interested in collaborating on , open-source projects, design challenges.]
 - 📫 How to reach me: [ email, LinkedIn.]
 - 😄 Pronouns: [ he/him.]
