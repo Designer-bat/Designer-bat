@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Networking for Artists</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f9;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 1rem;
+        }
+
+        .group {
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .group h3 {
+            margin-bottom: 1rem;
+        }
+
+        .post {
+            border-top: 1px solid #ddd;
+            padding: 1rem 0;
+        }
+
+        .post:first-of-type {
+            border-top: none;
+        }
+
+        .post .actions {
+            margin-top: 0.5rem;
+        }
+
+        .like,
+        .dislike,
+        .comment {
+            margin-right: 10px;
+            color: #007bff;
+            cursor: pointer;
+        }
+
+        .like:hover,
+        .dislike:hover,
+        .comment:hover {
+            text-decoration: underline;
+        }
+
+        .team-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .team-card {
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 1rem;
+            text-align: center;
+            flex: 1 1 calc(33% - 1rem);
+        }
+
+        .team-card img {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            margin-bottom: 0.5rem;
+        }
+
+        @media (max-width: 768px) {
+            .team-card {
+                flex: 1 1 100%;
+            }
+        }
+        /* Footer Styles */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #28a745;
+  color: white;
+  font-size: 14px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Artist Networking</h1>
+        <p>Connect, collaborate, and share feedback with fellow artists</p>
+    </header>
+
+    <div class="container">
+        <section class="group">
+            <h3>Top Art Group - Abstract Artists</h3>
+
+            <div class="post">
+                <p><strong>Alex Brown:</strong> What do you think about my new abstract painting?</p>
+                <div class="actions">
+                    <span class="like">Like</span>
+                    <span class="dislike">Dislike</span>
+                    <span class="comment">Comment</span>
+                </div>
+            </div>
+
+            <div class="post">
+                <p><strong>Maria Smith:</strong> Any suggestions for improving the color balance in my latest piece?</p>
+                <div class="actions">
+                    <span class="like">Like</span>
+                    <span class="dislike">Dislike</span>
+                    <span class="comment">Comment</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="group">
+            <h3>Feedback Group - Photography Enthusiasts</h3>
+
+            <div class="post">
+                <p><strong>John Doe:</strong> Captured this sunrise today. Would love your feedback!</p>
+                <div class="actions">
+                    <span class="like">Like</span>
+                    <span class="dislike">Dislike</span>
+                    <span class="comment">Comment</span>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h3>Teams</h3>
+            <div class="team-list">
+                <div class="team-card">
+                    <img src="team1.jpg" alt="Team 1">
+                    <h4>Digital Art Gurus</h4>
+                    <p>Members: 12</p>
+                </div>
+
+                <div class="team-card">
+                    <img src="team2.jpg" alt="Team 2">
+                    <h4>Photography Pioneers</h4>
+                    <p>Members: 8</p>
+                </div>
+
+                <div class="team-card">
+                    <img src="team3.jpg" alt="Team 3">
+                    <h4>Sculpture Society</h4>
+                    <p>Members: 10</p>
+                </div>
+            </div>
+        </section>
+    </div>
+    <footer class="footer">
+        <p>© 2024 ArtSphere. Empowering Local Artists Everywhere.</p>
+    </footer>
+</body>
+</html>
