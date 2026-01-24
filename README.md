@@ -1,23 +1,8 @@
-Hi, I'm Ramesh Tiwari (Swostik)
-💻 UI/UX Designer | Graphic Designer | Aspiring Developer  
+Hi, I'm Ramesh Tiwari (Swostik) 🤙
 
-I’m passionate about creating user-friendly designs and building practical software solutions. 
-I enjoy combining creativity with technology to develop meaningful digital experiences.
+UI/UX & Graphic Designer | Aspring Developer  
+Passionate about web development, design, AI, and system development.
 
-🚀 Interests
-- Web Development  
-- UI/UX & Graphic Design  
-- AI & System Development  
-
-🌱 Currently Learning
-- C & Linux  
-- Java (OOP)  
-- PHP, JavaScript  
-- Python  
-
-🤝 Open to
-- Open-source projects  
-- Collaboration  
-- Design & development challenges  
-
-🎓 BIM Student at ASMT College, Tribhuvan University, Nepal
+🌱 Learning: C, Linux, Java (OOP), PHP, JavaScript, Python  
+🤝 Open to open-source projects & collaboration  
+🎓 BIM Student | ASMT College, TU Nepal
