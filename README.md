@@ -26,5 +26,11 @@ Hi, I'm Ramesh Tiwari (Swostik) 🤙<br><br>UI/UX & Graphic Designer | Aspring D
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=Designer-bat&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
-### 🔝 Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=Designer-bat&limit=5&theme=dark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=Designer-bat&icon=2&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Designer-bat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Designer-bat&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Designer-bat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Designer-bat&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
+
+### 🔝 Top Contributed Repo 
+![](https://github-contributor-stats.vercel.app/api?username=Designer-bat&limit=5&theme=dark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=Designer-bat&icon=2&color=0)](https://visitcount.itsvg.in) <!-- Proudly created 
