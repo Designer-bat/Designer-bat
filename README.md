@@ -14,7 +14,6 @@ Hi, I'm Ramesh Tiwari (Swostik) 🤙<br><br>UI/UX & Graphic Designer | Aspring D
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Designer-bat&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Designer-bat&layout=compact&theme=dark)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Designer-bat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
