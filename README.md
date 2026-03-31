@@ -1,129 +1,272 @@
-# 👋 Ramesh Tiwari (Swostik)
+<div align="center">
 
-> **UI/UX & Graphic Designer** | **Aspiring Full-Stack Developer**  
-> *Creating beautiful digital experiences with code & design*
+```
+ ╔════════════════════════════════════════════════════════════════╗
+ ║                                                                ║
+ ║    👋 RAMESH TIWARI (SWOSTIK)                                 ║
+ ║    UI/UX Designer • Full-Stack Developer • Design Enthusiast   ║
+ ║                                                                ║
+ ╚════════════════════════════════════════════════════════════════╝
+```
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=fff" alt="Welcome Banner" />
 
-## 🎯 About Me
-
-I'm a passionate designer and developer based in Kathmandu, Nepal. I combine strong design principles with emerging development skills to build user-centered digital products. Currently exploring open-source contributions and collaborative projects while pursuing BIM studies at ASMT College, TU Nepal.
-
-**What I'm focused on:**
-- 🎨 Designing intuitive UI/UX experiences in Figma
-- 💻 Building responsive web applications with HTML, CSS, JavaScript
-- 🚀 Contributing to open-source projects
-- 🔗 Bridging the gap between design and development
-
----
-
-## 🛠️ Tech Stack
-
-### Design & Creative Tools
-<div>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white" alt="InDesign" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white" alt="Lightroom" />
-  <img src="https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=white" alt="Sketch" />
-  <img src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=flat-square&logo=affinity-designer&logoColor=white" alt="Affinity" />
-</div>
-
-### Programming Languages
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-</div>
-
-### Frameworks & Libraries
-<div>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 **About Me**
 
 <div align="center">
-  <a href="https://github.com/Designer-bat">
-    <img src="https://github-readme-stats.vercel.app/api?username=Designer-bat&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=false" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Designer-bat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Designer-bat&theme=github_dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" height="180" alt="Most Used Languages" />
-  </a>
+
+> **Creating beautiful digital experiences where design meets code**
+
+A passionate **UI/UX Designer & Aspiring Developer** from Kathmandu, Nepal 🇳🇵  
+Bridging the gap between aesthetics and functionality through thoughtful design & clean code
+
 </div>
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Design-Focused</h3>
+      <p>Crafting pixel-perfect interfaces with user empathy</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>💻 Code-Enabled</h3>
+      <p>Turning designs into interactive web experiences</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 **What I'm Currently Doing**
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Designer-bat&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+| Focus | Details |
+|-------|---------|
+| 🎨 **Design** | Creating intuitive UI/UX in Figma & Adobe Suite |
+| 💻 **Development** | Building responsive web apps with modern tech |
+| 🔗 **Open Source** | Contributing to meaningful collaborative projects |
+| 📚 **Learning** | Full-stack development & advanced design systems |
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ **Tech Stack**
 
-Let's collaborate! Find me on:
+### 🎨 **Design & Creative Arsenal**
 
 <div align="center">
-  <a href="https://www.behance.net/Rameshtiwari_">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="https://www.linkedin.com/in/rameshtiwari-gd/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.gg/s3eqJFrG">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:eswobtik.tiwari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Figma  │  Illustrator  │  InDesign  │  Lightroom  │  Sketch │
+│ Affinity│ Creative Cloud│ Photoshop  │ XD        │ Protopie│
+└─────────────────────────────────────────────────────────────┘
+```
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+
+</div>
+
+### 💻 **Languages & Frameworks**
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│ Frontend │ Backend │ Languages │ Databases │ Tools           │
+├──────────────────────────────────────────────────────────────┤
+│ HTML5    │ PHP     │ Python    │ SQL       │ Git             │
+│ CSS3     │ Go      │ Java      │ MongoDB   │ Bootstrap       │
+│ JavaScript│ Node.js │ C        │           │ Webpack         │
+└──────────────────────────────────────────────────────────────┘
+```
+
+**Frontend Stack:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Languages:**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Tools & Version Control:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
 
-## 🎓 Education
+## 📊 **GitHub Analytics Dashboard**
 
-**BIM (Bachelor in Information Management)**  
-ASMT College, Tribhuvan University, Nepal
+<div align="center">
 
-**Focus Areas:** Web Development, Graphic Design, UI/UX Design
+### 📈 Performance Overview
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    Your GitHub Journey                        ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  [████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 40%  ║
+║  Contributions | Consistency | Growth                         ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+### 📊 Core Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Designer-bat&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+
+### 💎 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Designer-bat&theme=github_dark&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=Designer-bat&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=58a6ff&fire=ff7b54" alt="GitHub Streak" />
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Designer-bat&theme=github-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&point=58a6ff&line=30363d" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-## 🚀 What I'm Learning
+## 🎓 **Education & Learning**
 
-- **Advanced Frontend Frameworks** - React, Vue, or similar
-- **Backend Development** - Node.js, Database Design
-- **Full-Stack Development** - Creating complete web applications
-- **Design Systems** - Building scalable, maintainable design components
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h4>🏫 Current Studies</h4>
+      <p><strong>BIM</strong> (Bachelor in Information Management)<br/>
+      <em>ASMT College, Tribhuvan University</em><br/>
+      📍 Kathmandu, Nepal</p>
+    </td>
+    <td align="center" width="50%">
+      <h4>🚀 Learning Path</h4>
+      <p>
+        ✨ React & Modern Frameworks<br/>
+        ✨ Backend Development<br/>
+        ✨ Design Systems & Scalability<br/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💡 Open To
+## 💡 **What I'm Open To**
 
-✨ **Open-source contributions** - I love collaborating on meaningful projects  
-🤝 **Freelance work** - Design & development projects  
-📚 **Learning partnerships** - Mentorship and knowledge sharing  
-🎨 **Design collaborations** - UI/UX design challenges
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🎨 Design Collaborations      🤝 Open Source Projects      │
+│  💻 Freelance Work             📚 Mentorship Opportunities  │
+│  🚀 Startup Ideas              🎯 Challenging Projects      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-## 📈 GitHub Activity
+## 🌐 **Connect & Collaborate**
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Designer-bat&theme=github-dark&hide_border=true)
+<div align="center">
+
+### Let's Connect!
+
+<a href="https://www.behance.net/Rameshtiwari_">
+  <img src="https://img.shields.io/badge/Portfolio-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio" />
+</a>
+
+<a href="https://www.linkedin.com/in/rameshtiwari-gd/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://discord.gg/s3eqJFrG">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
+</a>
+
+<a href="mailto:eswobtik.tiwari@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+**Want to work together?** Reach out! I'm always interested in exciting projects and collaborations.
+
+</div>
+
+---
+
+## 🎯 **Quick Links**
+
+<div align="center">
+
+| Link | Description |
+|------|-------------|
+| 🖼️ [View Design Portfolio](https://www.behance.net/Rameshtiwari_) | Explore my design work |
+| 💼 [Connect on LinkedIn](https://www.linkedin.com/in/rameshtiwari-gd/) | Professional network |
+| 💬 [Join Discord Community](https://discord.gg/s3eqJFrG) | Chat with community |
+| 📧 [Send Email](mailto:eswobtik.tiwari@gmail.com) | Get in touch |
+
+</div>
 
 ---
 
 <div align="center">
-  
-  **Made with ❤️ by Ramesh Tiwari**
-  
-  *Last Updated: 2026* | [View Full Profile →](https://github.com/Designer-bat)
-  
+
+### 📝 **Recent Activity Highlights**
+
+```
+┌─────────────────────────────────────────┐
+│  Latest Contributions & Projects        │
+├─────────────────────────────────────────┤
+│  ⭐ Working on awesome projects         │
+│  📚 Learning new technologies          │
+│  🎨 Designing beautiful interfaces     │
+│  💻 Writing clean code                 │
+└─────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff" alt="Footer Banner" />
+
+<br/>
+
+**Made with ❤️ & ☕ by Ramesh Tiwari**
+
+*Building beautiful things, one pixel and one line of code at a time*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Designer-bat&color=blueviolet&style=flat-square)
+
+*Last Updated: March 2026*
+
 </div>
