@@ -1,19 +1,7 @@
-<div align="center">
-
-```
- ╔════════════════════════════════════════════════════════════════╗
- ║                                                                ║
- ║    👋 RAMESH TIWARI (SWOSTIK)                                 ║
- ║    UI/UX Designer • Full-Stack Developer • Design Enthusiast   ║
- ║                                                                ║
- ╚════════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=fff" alt="Welcome Banner" />
 
 </div>
-
----
 
 ## 🎯 **About Me**
 
@@ -39,35 +27,11 @@ Bridging the gap between aesthetics and functionality through thoughtful design 
   </tr>
 </table>
 
----
-
-## 🚀 **What I'm Currently Doing**
-
-<div align="center">
-
-| Focus | Details |
-|-------|---------|
-| 🎨 **Design** | Creating intuitive UI/UX in Figma & Adobe Suite |
-| 💻 **Development** | Building responsive web apps with modern tech |
-| 🔗 **Open Source** | Contributing to meaningful collaborative projects |
-| 📚 **Learning** | Full-stack development & advanced design systems |
-
-</div>
-
----
-
 ## 🛠️ **Tech Stack**
 
 ### 🎨 **Design & Creative Arsenal**
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Figma  │  Illustrator  │  InDesign  │  Lightroom  │  Sketch │
-│ Affinity│ Creative Cloud│ Photoshop  │ XD        │ Protopie│
-└─────────────────────────────────────────────────────────────┘
-```
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
@@ -79,16 +43,6 @@ Bridging the gap between aesthetics and functionality through thoughtful design 
 ### 💻 **Languages & Frameworks**
 
 <div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│ Frontend │ Backend │ Languages │ Databases │ Tools           │
-├──────────────────────────────────────────────────────────────┤
-│ HTML5    │ PHP     │ Python    │ SQL       │ Git             │
-│ CSS3     │ Go      │ Java      │ MongoDB   │ Bootstrap       │
-│ JavaScript│ Node.js │ C        │           │ Webpack         │
-└──────────────────────────────────────────────────────────────┘
-```
 
 **Frontend Stack:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -108,25 +62,6 @@ Bridging the gap between aesthetics and functionality through thoughtful design 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
----
-
-## 📊 **GitHub Analytics Dashboard**
-
-<div align="center">
-
-### 📈 Performance Overview
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                    Your GitHub Journey                        ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  [████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 40%  ║
-║  Contributions | Consistency | Growth                         ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
 
 ### 📊 Core Statistics
 
