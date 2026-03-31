@@ -103,26 +103,7 @@ Bridging the gap between aesthetics and functionality through thoughtful design 
     </td>
   </tr>
 </table>
-
----
-
-## 💡 **What I'm Open To**
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🎨 Design Collaborations      🤝 Open Source Projects      │
-│  💻 Freelance Work             📚 Mentorship Opportunities  │
-│  🚀 Startup Ideas              🎯 Challenging Projects      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
 </div>
-
----
 
 ## 🌐 **Connect & Collaborate**
 
@@ -151,42 +132,6 @@ Bridging the gap between aesthetics and functionality through thoughtful design 
 **Want to work together?** Reach out! I'm always interested in exciting projects and collaborations.
 
 </div>
-
----
-
-## 🎯 **Quick Links**
-
-<div align="center">
-
-| Link | Description |
-|------|-------------|
-| 🖼️ [View Design Portfolio](https://www.behance.net/Rameshtiwari_) | Explore my design work |
-| 💼 [Connect on LinkedIn](https://www.linkedin.com/in/rameshtiwari-gd/) | Professional network |
-| 💬 [Join Discord Community](https://discord.gg/s3eqJFrG) | Chat with community |
-| 📧 [Send Email](mailto:eswobtik.tiwari@gmail.com) | Get in touch |
-
-</div>
-
----
-
-<div align="center">
-
-### 📝 **Recent Activity Highlights**
-
-```
-┌─────────────────────────────────────────┐
-│  Latest Contributions & Projects        │
-├─────────────────────────────────────────┤
-│  ⭐ Working on awesome projects         │
-│  📚 Learning new technologies          │
-│  🎨 Designing beautiful interfaces     │
-│  💻 Writing clean code                 │
-└─────────────────────────────────────────┘
-```
-
-</div>
-
----
 
 <div align="center">
 
