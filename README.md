@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-👋 Hi, I’m @Designer-bat<br>👀 I’m interested in [ web development, graphic design,UI/UX design, AI,]<What I'm focused on:
+👋 Hi, I’m Ramesh Tiwari aka swostik<br>👀 I’m interested in [ web development, graphic design,UI/UX design, AI,]<What I'm focused on:
 
-🎨 Designing intuitive UI/UX 
-💻 Building responsive web applications with HTML, CSS, JavaScript
+🎨 Designing intuitive UI/UX experiences in Figma
+💻 Building responsive web applications with HTML, CSS, JavaScript 
 🚀 Contributing to open-source projects
 🔗 Bridging the gap between design and development
 
@@ -26,7 +26,7 @@
   <img src="https://streak-stats.demolab.com?user=Designer-bat&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-#🌐 Connect With Me
+🌐 Connect With Me
 Let's collaborate! Find me on:
 <div>
   <a href="https://www.behance.net/Rameshtiwari_">
