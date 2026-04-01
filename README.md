@@ -1,33 +1,63 @@
-# 💫 About Me:
-Hi, I'm Ramesh Tiwari (Swostik) 🤙<br><br>UI/UX & Graphic Designer | Aspiring Developer<br>🤝 Open to open-source projects & collaboration<br>🎓 BIM Student | ASMT College, TU Nepal
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/Rameshtiwari_) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s3eqJFrG) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameshtiwari-gd/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eswobtik.tiwari@gmail.com)
-# 💻 Tech Stack:
-## 🎨 Graphic Design & UI/UX
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-## 💻 Programming & Development
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Designer-bat&theme=dark&hide_border=false&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Designer-bat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Designer-bat&theme=dark&hide_border=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Designer-bat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-### 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api/pin/?username=Designer-bat&repo=Designer-bat&theme=dark)
+<h1 align="center">Hi 👋, I'm Ramesh Tiwari (Swostik) 🤙</h1>
+<h3 align="center">UI/UX & Graphic Designer | Aspiring Developer from Nepal</h3>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Designer-bat&icon=2&color=0)](https://visitcount.itsvg.in)
-improvde this github profile card and fix the api issue
+
+### 🚀 About Me
+- 🔭 Currently working on: **E-commerce Website**
+- 🌱 Learning: **Golang & Backend Development**
+- 🤝 Open to collaboration on: **Web & Design Projects**
+- ⚡ Fun fact: **Platypuses sweat milk 🐾**
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/rameshtiwari-gd/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.behance.net/rameshtiwari_" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🎨 Design Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" />
+</p>
+
+---
+
+### 💻 Development (Frontend & Backend)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,bootstrap,tailwind" />
+</p>
+
+---
+
+### ⚙️ Programming & Core Tech
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,java,python,go,mysql" />
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,docker,linux" />
+</p>
+
+---
+---
+
+⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=designer-bat&theme=tokyonight" />
+</p>
+📊 GitHub Insights
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=designer-bat&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=designer-bat&theme=tokyonight" />
+</p>
