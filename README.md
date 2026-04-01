@@ -23,13 +23,6 @@
 
 ---
 
-### 🎨 Design Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" />
-</p>
-
----
-
 ### 💻 Development (Frontend & Backend)
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,bootstrap,tailwind" />
@@ -39,18 +32,8 @@
 
 ### ⚙️ Programming & Core Tech
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,python,go,mysql" />
-</p>
-
----
-
-### 🛠️ Tools & Platforms
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,docker,linux" />
-</p>
-
----
----
+<img src="https://skillicons.dev/icons?i=c,java,python,go,mysql,git,docker,linux" />
+</p> 
 
 ⚡ GitHub Stats
 <p align="center">
