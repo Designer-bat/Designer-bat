@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Ramesh Tiwari (Swostik) 🤙</h1>
-<h3 align="center">🎓 BIM Student | 🎨 Graphic Designer | 💻 Creative Developer</h3>
+<h1 >Hi 👋 I'm Ramesh Tiwari (Swostik) 🤙</h1>
+<h3 >🎓 BIM Student | 🎨 Graphic Designer | 💻 Creative Developer</h3>
 
 ---
 
@@ -24,15 +24,14 @@ Based in Kathmandu, Nepal
 </p> 
 
 ⚡ GitHub Stats
-<p align="center">
+<p >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=designer-bat&theme=tokyonight" />
 </p>
 📊 GitHub Insights
-<p align="center">
+<p >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=designer-bat&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=designer-bat&theme=tokyonight" />
 </p>
----
 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/rameshtiwari-gd/" target="blank">
