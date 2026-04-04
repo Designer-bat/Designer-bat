@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ramesh Tiwari (Swostik) 🤙</h1>
-<h3 align="center">UI/UX & Graphic Designer | Aspiring Developer from Nepal</h3>
+<h1 align="center">Hi 👋 I'm Ramesh Tiwari (Swostik) 🤙</h1>
+<h3 align="center">🎓 BIM Student | 🎨 Graphic Designer | 💻 Creative Developer</h3>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: **E-commerce Website**
-- 🌱 Learning: **Golang & Backend Development**
-- 🤝 Open to collaboration on: **Web & Design Projects**
-- ⚡ Fun fact: **Platypuses sweat milk 🐾**
+🎯 Focused on UI/UX + Branding
+🎨 Passionate about premium logo & identity design
+💻 Exploring web design & frontend development
+📍 Based in Kathmandu, Nepal
 
 ---
 
