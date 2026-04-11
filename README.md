@@ -1,6 +1,4 @@
 <h1 >Hi 👋 I'm Ramesh Tiwari (Swostik) 🤙</h1>
-<h3 >🎓 BIM Student | 🎨 Graphic Designer | 💻 Creative Developer</h3>
-
 ---
 
 ### 🚀 About Me
