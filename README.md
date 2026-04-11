@@ -1,5 +1,4 @@
 <h1 >Hi 👋 I'm Ramesh Tiwari (Swostik) 🤙</h1>
----
 
 ### 🚀 About Me
 Focused on UI/UX + Branding
