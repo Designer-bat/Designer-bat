@@ -7,6 +7,12 @@ Exploring web design & frontend development
 Based in Kathmandu, Nepal
 
 ---
+📊 GitHub Insights
+<p >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=designer-bat&theme=tokyonight" />
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=designer-bat&theme=tokyonight" />
+</p>
 
 ### 💻 Development (Frontend & Backend)
 <p align="left">
@@ -23,12 +29,6 @@ Based in Kathmandu, Nepal
 ⚡ GitHub Stats
 <p >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=designer-bat&theme=tokyonight" />
-</p>
-📊 GitHub Insights
-<p >
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=designer-bat&theme=tokyonight" />
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=designer-bat&theme=tokyonight" />
 </p>
 
 🌐 Connect with Me
