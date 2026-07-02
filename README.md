@@ -1,9 +1,9 @@
 <h1 >Hi 👋 I'm Ramesh Tiwari (Swostik) 🤙</h1>
 
 ### 🚀 About Me
-Exploring web design & frontend development
+Exploring web design & development
 Focused on UI/UX + Branding
-Passionate about identity design
+Passionate about ML and AI 
 Based in Kathmandu, Nepal
 
 ---
