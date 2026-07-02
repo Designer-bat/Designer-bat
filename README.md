@@ -26,6 +26,8 @@ Based in Kathmandu, Nepal
 <img src="https://skillicons.dev/icons?i=c,java,python,go,mysql,git,docker,linux" />
 </p> 
 
+---
+
 ⚡ GitHub Stats
 <p >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=designer-bat&theme=tokyonight" />
