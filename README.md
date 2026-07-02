@@ -1,5 +1,9 @@
 <h1 >Hi 👋 I'm Ramesh Tiwari (Swostik) 🤙</h1>
 
+<p align="center">
+  <img src="C:\Users\swost\Downloads/Brand Design Brand.png" alt="Banner" width="100%">
+</p>
+
 ### 🚀 About Me
 Exploring web design & development
 Focused on UI/UX + Branding
