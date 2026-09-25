@@ -159,7 +159,7 @@ Software Projects
   <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="30" width="40" />
 </a>
 
-<a href="https://imramesh-dev-hcff4q7.gamma.site/" target="_blank">
+<a href="https://www.rameshtiwari.name.np" target="_blank">
   <img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" height="30" width="40" />
 </a>
 
