@@ -74,11 +74,7 @@
 
 <h1 align="center">📊 GitHub Stats</h1>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Designer-bat&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Designer-bat&layout=compact&theme=darcula&hide_border=true&bg_color=00000000&langs_count=8" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Designer-bat&theme=darcula&hide_border=true&background=FFFFFF00" />
