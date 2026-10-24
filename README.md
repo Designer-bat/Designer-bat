@@ -171,8 +171,8 @@ Software Projects
   <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="30" width="40" />
 </a>
 
-<a href="https://www.rameshtiwari.name.np" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" height="30" width="40" />
+<a href="https://dribbble.com/RameshTiwari_">
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble">
 </a>
 
 </p>
