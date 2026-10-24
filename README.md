@@ -140,11 +140,14 @@ Software Projects
   <a href="https://www.linkedin.com/in/rameshtiwari-gd/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
 
-<a href="https://dribbble.com/RameshTiwari_">
+  <a href="https://dribbble.com/RameshTiwari_">
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble">
 </a>
+
+</p>
+
+
 
 <p align="center">
   <samp>
