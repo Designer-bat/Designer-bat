@@ -133,7 +133,7 @@ Software Projects
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
   </a>
 
-  <a href="https://https://www.rameshtiwari.name.np">
+  <a href="https://www.rameshtiwari.name.np">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 
