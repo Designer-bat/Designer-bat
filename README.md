@@ -142,39 +142,14 @@ Software Projects
   </a>
 </p>
 
-<p align="center">
-  <samp>
-    Check out my portfolio and design work to see what I'm building and creating.
-  </samp>
-</p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
-  Connect with me
-</h1>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rameshtiwari-gd/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="https://www.behance.net/Rameshtiwari_" target="_blank">
-  <img src="https://cdn.simpleicons.org/behance" alt="Behance" height="30" width="40" />
-</a>
-
-<a href="https://github.com/Designer-bat" target="_blank">
-  <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="30" width="40" />
-</a>
-
 <a href="https://dribbble.com/RameshTiwari_">
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble">
 </a>
 
+<p align="center">
+  <samp>
+    Check out my portfolio and design work to see what I'm building and creating.
+  </samp>
 </p>
 
 <br>
